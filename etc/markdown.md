@@ -1,3 +1,8 @@
+줄바꿈
+line이 끝날 때 스페이스 두 번 이상 넣은 뒤 엔터  
+또는 <br />
+example
+***
 # 제목(Header)
 # 제목 1
 ## 제목 2
@@ -40,7 +45,7 @@
 1. 순서가 필요한 목록
     1. 순서가 필요한 목록(서브)
     2. 순서가 필요한 목록(서브)
-2. 순서가 필요한 목록
+2. 순서가 필요한 목록  
     - 순서가 필요하지 않은 목록(서브)
         * 순서가 필요하지 않은 목록(서브)
             + 순서가 필요하지 않은 목록(서브)
@@ -65,10 +70,10 @@
 # 이미지(Images)
 링크과 비슷하지만 앞에 !가 붙습니다.
 
-![대체 텍스트(alternative text)](http://www.gstatic.com/webp/gallery/5.jpg "링크 설명(title).")  
-![Kayak][logo]
+![대체 텍스트(alternative text)](abc.jpg "링크 설명(title).")  
+![Test][logo]
 
-[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
+[logo]: cde.jpg "To go kayaking."
 
 # 표(Table)
 
